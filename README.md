@@ -60,22 +60,6 @@ Busco evolução constante através de projetos práticos e aprendizado contínu
 
 ---
 
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Daniel-vynicyos-09&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Daniel-vynicyos-09/Daniel-vynicyos-09/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 📫 Contato
 
 Instagram: coloque_seu_link_aqui  
