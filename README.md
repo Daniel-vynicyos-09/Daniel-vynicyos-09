@@ -62,12 +62,6 @@ Busco evolução constante através de projetos práticos e aprendizado contínu
 
 ---
 
-## 📫 Contato
-
-Instagram: (https://www.instagram.com/daniel_pinheiro3/)
-
----
-
 <p align="center">
   ⭐ Evoluindo todos os dias na área de tecnologia.
 </p>
