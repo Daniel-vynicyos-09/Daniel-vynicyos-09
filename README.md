@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daniel-vynicyos-09&style=for-the-badge&color=0e75b6" />
+  <a href="https://www.instagram.com/daniel_pinheiro3/)">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
 </p>
 
 ---
