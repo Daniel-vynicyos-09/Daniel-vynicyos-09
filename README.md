@@ -1,92 +1,93 @@
-<h1 align="center">👨‍💻 Daniel</h1>
-<h3 align="center">Full Stack Developer | FiveM Developer | Embedded Systems | Electrical & Electronics</h3>
+<h1 align="center">Daniel</h1>
+<h3 align="center">Técnico em Informática | Desenvolvedor Web | Dev FiveM | Eletrônica & Sistemas Embarcados</h3>
 
 <p align="center">
-  <a href="SEU_LINK_INSTAGRAM_AQUI">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  Em constante evolução na área de tecnologia, transformando conhecimento técnico em soluções reais.
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Sou **Técnico em Informática** formado pela **EETEPA Oriximiná - PA**  
-Atuo com desenvolvimento de sistemas, scripts para FiveM, projetos eletrônicos e programação embarcada.
+Sou Técnico em Informática formado pela EETEPA Oriximiná – PA.  
+Atuo com desenvolvimento web, scripts para FiveM, eletrônica e programação embarcada.
 
-💡 Foco em:
-- Sistemas modernos e escaláveis
-- Integração hardware + software
-- Automação e tecnologia aplicada
-- Desenvolvimento de soluções personalizadas
+Tenho perfil prático e foco em aprendizado contínuo, buscando sempre evoluir tecnicamente através de projetos e estudos.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Competências Técnicas
 
-### 👨‍💻 Linguagens
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,lua,ts,html,css" />
-</p>
-
+### Linguagens de Programação
 - C++
 - JavaScript
 - Lua
 - TypeScript
+- PHP
 - HTML5
 - CSS3
 
----
+### Desenvolvimento Web
+- Estruturação semântica com HTML
+- Estilização com CSS
+- Lógica e interatividade com JavaScript
+- Noções de back-end com PHP
+- Conceitos básicos de banco de dados
+- Desenvolvimento de sistemas simples do zero
 
-## 🎮 Desenvolvimento FiveM
-
+### FiveM
 - Scripts personalizados
-- Sistemas para servidores RP
-- Integrações com banco de dados
-- Interfaces modernas (NUI)
-- Otimização e organização de código
+- Organização de recursos
+- Integração NUI
+- Estruturação de sistemas básicos
+
+### Eletrônica & Sistemas Embarcados
+- Projetos técnicos educacionais
+- Fundamentos de automação
+- Integração entre hardware e software
 
 ---
 
-## ⚙️ Programação Embarcada & Eletrônica
-
-- Desenvolvimento de projetos embarcados
-- Automação
-- Circuitos eletrônicos
-- Integração com sistemas web
-
----
-
-## 🚀 Projetos em Destaque
+## 🚀 Projetos
 
 ### 🔎 EVO Scan
-Projeto pessoal focado em inovação, escaneamento e organização tecnológica.
+Projeto pessoal focado em prática, organização e inovação tecnológica.
 
 ### ☁️ SKYMETRIC
-Projeto desenvolvido em grupo com finalidade educacional, entregue como material de apoio para futuras turmas.
+Projeto desenvolvido em grupo com finalidade educacional, deixado como material de apoio para futuras turmas.
 
 ---
 
-## 🎓 Formação & Certificações
+## 🎓 Formação
 
-🎓 Técnico em Informática — EETEPA Oriximiná - PA  
-📚 Informática Avançada — Amazon Cursos  
-📈 Marketing Digital — Amazon Cursos  
+Técnico em Informática  
+EETEPA Oriximiná – Pará  
+
+Cursos Complementares:
+- Informática Avançada — Amazon Cursos  
+- Marketing Digital — Amazon Cursos  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Daniel-vynicyos-09&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-vynicyos-09&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Daniel-vynicyos-09&show_icons=true&theme=github_dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-vynicyos-09&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Daniel-vynicyos-09&theme=github-dark" />
 </p>
 
 ---
 
-## 🧠 Sempre Evoluindo
+## 📫 Contato
 
-> "Tecnologia não é apenas código, é solução."
+Instagram: coloque_seu_link_aqui
 
-🚀 Em constante aprendizado e desenvolvimento de novos projetos.
+---
+
+<p align="center">
+  ⭐ Construindo conhecimento todos os dias.
+</p>
